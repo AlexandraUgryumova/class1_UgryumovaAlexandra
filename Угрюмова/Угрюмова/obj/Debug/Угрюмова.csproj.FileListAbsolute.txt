@@ -1,0 +1,8 @@
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\bin\Debug\Угрюмова.exe.config
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\bin\Debug\Угрюмова.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\bin\Debug\Угрюмова.pdb
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\obj\Debug\Угрюмова.csproj.AssemblyReference.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\obj\Debug\Угрюмова.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\obj\Debug\Угрюмова.csproj.CoreCompileInputs.cache
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\obj\Debug\Угрюмова.exe
+C:\Users\Orpsosip\Desktop\саша\с шарп\Угрюмова\Угрюмова\obj\Debug\Угрюмова.pdb
